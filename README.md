@@ -28,13 +28,14 @@ Here are some ideas to get you started:
 Greetings! My name is Benjamin Goh. Join me as I embark on my journey to be a full stack developer! Starting with enrolling myself in General Assembly Software Engineer Bootcamp (SEB)!
 
 <details open>
-  <summary>My top Languages</summary>
+  <summary>My Learning Journey</summary>
 
-  | Rank |   Languages   |
+|  No. |   Item   |
 |-----:|---------------|
 |     1| JavaScript    |
 |     2| HTML          |
 |     3| CSS           |
+|     4| React           |
 
 </details>
 
