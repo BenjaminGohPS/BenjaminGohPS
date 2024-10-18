@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 <!-- add more items to the table, and do up a nicer about me page -->
 
 Greetings! My name is Benjamin Goh. Join me as I embark on my journey to be a full stack developer! Starting with enrolling myself in General Assembly Software Engineer Bootcamp (SEB)!
+It has been a few weeks of coding, as you can tell from the number of new repository created. There are 4 projects due in this course, and I have just completed the 1st project (1/4); created a browser based game. It's already launched, so you may give it a try. Leave a comment if you had fun, and enjoyed it! Thank you!
+
 
 <details open>
   <summary>My Learning Journey</summary>
@@ -35,7 +37,7 @@ Greetings! My name is Benjamin Goh. Join me as I embark on my journey to be a fu
 |     1| JavaScript    |
 |     2| HTML          |
 |     3| CSS           |
-|     4| React           |
+|     4| React         |
 
 </details>
 
