@@ -38,6 +38,9 @@ It has been a few weeks of coding, as you can tell from the number of new reposi
 |     2| HTML          |
 |     3| CSS           |
 |     4| React         |
+|     5| Bootstrap     |
+|     6| Airtable      |
+|     7| Trello        |
 
 </details>
 
