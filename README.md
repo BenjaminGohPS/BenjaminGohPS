@@ -26,8 +26,12 @@ Here are some ideas to get you started:
 <!-- add more items to the table, and do up a nicer about me page -->
 
 Greetings! My name is Benjamin Goh. Join me as I embark on my journey to be a full stack developer! Starting with enrolling myself in General Assembly Software Engineer Bootcamp (SEB)! Let's connect too! [Linkedin](https://github.com/BenjaminGohPS)
-It has been a few weeks of coding, as you can tell from the number of new repository created. There are 4 projects due in this course, and I have just completed the 1st project (1/4); created a browser based game. It's already launched, so you may give it a try. Leave a comment if you had fun, and enjoyed it! Thank you!
 
+It has been a few weeks of coding, as you can tell from the number of new repository created. There are 4 projects due in this course, and I have just completed the:-
+
+- 1st project (1/4); created a browser based game. It's already launched, so you may give it a try [here](https://benjamingohps.github.io/benben-adventure/). Leave a comment if you had fun, and enjoyed it! Thank you!
+- 2nd project (2/4); F1 Driver App. Had lots of fun with this! Created this for my group of friends to use when we are out chatting and discussing F1 stuff! Awaiting to deploy
+- 3rd project (3/4); Wander Go Where. A personalise trip planner with budgeting aspect. It's in beta stage, and I can't wait to share this with you!
 
 <details open>
   <summary>My Learning Journey</summary>
@@ -41,10 +45,13 @@ It has been a few weeks of coding, as you can tell from the number of new reposi
 |     5| Bootstrap     |
 |     6| Airtable      |
 |     7| Trello        |
+|     8| Express.js    |
+|     9| React         |
+|    10| Node.js       |
+|    11| MongoDB       |
 
 </details>
 
 ---
-> Do to others as you would have them do to you.
+> Do to others as you would have them do to you. - Luke 6:31
 
-- Luke 6:31
