@@ -49,6 +49,7 @@ It has been a few weeks of coding, as you can tell from the number of new reposi
 |     9| React         |
 |    10| Node.js       |
 |    11| MongoDB       |
+|    12| Python        |
 
 </details>
 
