@@ -32,6 +32,7 @@ It has been a few weeks of coding, as you can tell from the number of new reposi
 - 1st project (1/4); created a browser based game. It's already launched, so you may give it a try [here](https://benjamingohps.github.io/benben-adventure/). Leave a comment if you had fun, and enjoyed it! Thank you!
 - 2nd project (2/4); [F1 Driver App](https://github.com/BenjaminGohPS/F1-drivers-app). Had lots of fun with this! Created this for my group of friends to use when we are out chatting and discussing F1 stuff! Awaiting to deploy
 - 3rd project (3/4); [Wander Go Where](https://github.com/everett-wxy/WanderGoWhereFrontEnd). A personalise trip planner with budgeting aspect. It's in beta stage, and I can't wait to share this with you!
+- 4th project (4/4); [MATS App](https://github.com/BenjaminGohPS/MATS-app-frontend). My final project. Full-stack app. I think this app has immmense potential, and it's a very useful app for individuals, and a great tool for healthcare organisation. App still in beta atage. 
 
 <details open>
   <summary>My Learning Journey</summary>
@@ -50,6 +51,10 @@ It has been a few weeks of coding, as you can tell from the number of new reposi
 |    10| Node.js       |
 |    11| MongoDB       |
 |    12| Python        |
+|    13| Flask         |
+|    14| PostgreSQL    |
+|    14| Sequelize     |
+|    15| Tailwind      |
 
 </details>
 
