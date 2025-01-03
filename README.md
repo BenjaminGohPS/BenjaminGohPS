@@ -21,6 +21,17 @@ Here are some ideas to get you started:
   <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </picture>
+
+## 📊 **GitHub Stats**  
+![Benjamin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BenjaminGohPS&show_icons=true&hide_title=true&count_private=true&theme=radical&hide=prs)
+
+## 🌟 **GitHub Streaks**  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BenjaminGohPS&theme=radical)
+
+
+## 🔥 **Commit Activity**  
+![Commit Activity](https://github-readme-activity-graph.cyclic.app/graph?username=BenjaminGohPS&theme=radical)
+
 -->
 
 <picture>
@@ -31,12 +42,16 @@ Here are some ideas to get you started:
 
 
 
-
-# 👋 Hi, I'm Benjamin Goh!
+# 👋 Hi, I'm Benjamin Goh! 
+## 🚀 Full Stack Developer
+[![Hire Me](https://img.shields.io/badge/Hire_Me!-blue?logo=github&logoColor=white)](mailto:benjamingohps@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benjamin-goh-ps)  
 
 ## 🚀 Career Goal
 
-I am a passionate **Software Engineer** transitioning from a background in **Mechanical Engineering** (BEng) and experience as a **Client Advisor** in banking. After completing my **Software Engineering Bootcamp (SEB)** at **General Assembly**, I am excited to apply the skills I have gained in **Full-Stack Development** to solve real-world problems. My goal is to build **scalable** and **efficient solutions** using technologies like **MERN stack** and **PostgreSQL**, while leveraging my strong **problem-solving**, **analytical**, and **client-focused** skills.
+I am a **Software Engineer** with a background in **Mechanical Engineering (BEng)** and professional experience as a **Client Advisor** in banking. After completing the **Software Engineering Bootcamp (SEB)** at **General Assembly**, I have transitioned into **Full-Stack Development**, where I am eager to apply my skills to solve real-world challenges.
+
+My goal is to design and develop **scalable** and **efficient solutions** using modern technologies such as the **MERN stack** and **PostgreSQL**, while leveraging my strengths in **problem-solving**, **analytical thinking**, and **client-focused communication**.
 
 ---
 
@@ -76,6 +91,9 @@ I am a passionate **Software Engineer** transitioning from a background in **Mec
 - Problem-solving, Communication, Teamwork  
 - Git & Version Control  
 
+
+## 📚 **Top Languages**  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BenjaminGohPS&layout=compact&theme=radical)
 ---
 
 ## 💻 Projects (Listed in Descending Order of Completion)
@@ -170,6 +188,7 @@ I am actively seeking opportunities in **Full Stack Development** and would love
 📧 Email: [benjamingohps@gmail.com](mailto:benjamingohps@gmail.com)  
 💬 DM me on [LinkedIn](https://www.linkedin.com/in/benjamin-goh-ps)
 
+[![Hire Me](https://img.shields.io/badge/Hire_Me!-blue?logo=github&logoColor=white)](mailto:benjamingohps@gmail.com)
 
 ---
 > Do to others as you would have them do to you. - Luke 6:31
