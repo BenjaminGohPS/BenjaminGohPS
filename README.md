@@ -66,7 +66,9 @@ I am a passionate **Software Engineer** transitioning from a background in **Mec
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
 
 **Technologies**  
-- MERN Stack, Full-stack Development, REST APIs  
+- MERN Stack, Full-stack Development, REST APIs
+- **Express.js**  
+- **JWT (JSON Web Token)**  
 - MVC Architecture  
 - Agile Methodologies  
 
@@ -155,6 +157,7 @@ As I continue to learn and grow, here are the technologies and tools I've been m
 | 13 | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) PostgreSQL |  
 | 14 | ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&logoColor=white) Sequelize |  
 | 15 | ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwind-css&logoColor=white) Tailwind |
+| 16 | ![JWT](https://img.shields.io/badge/JWT-000000?logo=json-web-tokens&logoColor=white) JWT |
 
 
 </details>
