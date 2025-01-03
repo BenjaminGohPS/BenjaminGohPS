@@ -15,28 +15,110 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
   <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </picture>
+-->
 
-## About me 😄
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://plus.unsplash.com/premium_photo-1733306493254-52b143296396?q=80&w=1993&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D">
+  <source media="(prefers-color-scheme: light)" srcset="https://plus.unsplash.com/premium_photo-1733306493254-52b143296396?q=80&w=1993&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D">
+  <img alt="Abstract coding banner" src="https://plus.unsplash.com/premium_photo-1733306493254-52b143296396?q=80&w=1993&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D">
+</picture>
 
-<!-- add more items to the table, and do up a nicer about me page -->
 
-Greetings! My name is Benjamin Goh. Join me as I embark on my journey to be a full stack developer! Starting with enrolling myself in General Assembly Software Engineer Bootcamp (SEB)! Let's connect too! [Linkedin](https://github.com/BenjaminGohPS)
 
-It has been a few weeks of coding, as you can tell from the number of new repository created. There are 4 projects due in this course, and I have just completed the:-
 
-- 1st project (1/4); created a browser based game. It's already launched, so you may give it a try [here](https://benjamingohps.github.io/benben-adventure/). Leave a comment if you had fun, and enjoyed it! Thank you!
-- 2nd project (2/4); [F1 Driver App](https://github.com/BenjaminGohPS/F1-drivers-app). Had lots of fun with this! Created this for my group of friends to use when we are out chatting and discussing F1 stuff! Awaiting to deploy
-- 3rd project (3/4); [Wander Go Where](https://github.com/everett-wxy/WanderGoWhereFrontEnd). A personalise trip planner with budgeting aspect. It's in beta stage, and I can't wait to share this with you!
-- 4th project (4/4); [MATS App](https://github.com/BenjaminGohPS/MATS-app-frontend). My final project. Full-stack app. I think this app has immmense potential, and it's a very useful app for individuals, and a great tool for healthcare organisation. App still in beta atage. 
+# 👋 Hi, I'm Benjamin Goh!
+
+## 🚀 Career Goal
+
+I am a passionate **Software Engineer** transitioning from a background in **Mechanical Engineering** (BEng) and experience as a **Client Advisor** in banking. After completing my **Software Engineering Bootcamp (SEB)** at **General Assembly**, I am excited to apply the skills I have gained in **Full-Stack Development** to solve real-world problems. My goal is to build **scalable** and **efficient solutions** using technologies like **MERN stack** and **PostgreSQL**, while leveraging my strong **problem-solving**, **analytical**, and **client-focused** skills.
+
+---
+
+## 💻 My Tech Journey
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Technology_Focused-Software_Engineering-DAA520?logo=python">
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Technology_Focused-Software_Engineering-DAA520?logo=python">
+  <img alt="My Tech Journey" src="https://img.shields.io/badge/Technology_Focused-Software_Engineering-DAA520?logo=python">
+</picture>
+
+---
+
+## 🛠️ Skills & Technologies
+
+**Languages & Frameworks**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white)  
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)  
+
+**Databases & Tools**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
+
+**Technologies**  
+- MERN Stack, Full-stack Development, REST APIs  
+- MVC Architecture  
+- Agile Methodologies  
+
+**Other Skills**  
+- Problem-solving, Communication, Teamwork  
+- Git & Version Control  
+
+---
+
+## 💻 Projects (Listed in Descending Order of Completion)
+
+### 1. **[MATS - Medicine & Appointment Tracking App](https://github.com/BenjaminGohPS/MATS-app-frontend)** (Most Recent)
+**Tech Stack**: Node.js, Express, React, PostgreSQL  
+**Key Features**:
+- JWT Authentication for secure user login and role-based access
+- Personal health and medication tracking
+- Dual roles for users (Patient/Admin)
+- Full-stack development with Node.js, Express, React, PostgreSQL  
+- JWT Authentication incorporated
+
+---
+
+### 2. **[WanderGoWhere - Travel Planner](https://github.com/everett-wxy/WanderGoWhereFrontEnd)**
+**Tech Stack**: Node.js, Express, React, MongoDB  
+**Key Features**:
+- JWT Authentication for secure user login and session management
+- A travel planning app that allows users to set budget, discover destinations, plan trips, itineraries, and compare flight prices in real time.
+- Full-stack development with MERN
+
+---
+
+### 3. **[F1 Driver App](https://github.com/BenjaminGohPS/F1-drivers-app)**
+**Tech Stack**: React, Node.js, TanStack Query  
+**Key Features**:
+- Had lots of fun with this! Created this for my group of friends to use when we are out chatting and discussing F1 stuff! It helps us track driver stats and performance during the F1 season.
+
+---
+
+### 4. **[Benben Adventure Game](https://benjamingohps.github.io/benben-adventure/)**
+**Tech Stack**: JavaScript, HTML5, CSS3  
+**Key Features**:
+- A browser-based game I created as my first project. You can play it [here](https://benjamingohps.github.io/benben-adventure/). Let me know your thoughts!
+
+---
+
+## 🧑‍💻 My Learning Journey
+As I continue to learn and grow, here are the technologies and tools I've been mastering:
 
 <details open>
-  <summary>My Learning Journey</summary>
+  <summary>Click to Expand</summary>
 
+<!--
 |  No. |   Item   |
 |-----:|---------------|
 |     1| JavaScript    |
@@ -47,16 +129,44 @@ It has been a few weeks of coding, as you can tell from the number of new reposi
 |     6| Airtable      |
 |     7| Trello        |
 |     8| Express.js    |
-|     9| React         |
-|    10| Node.js       |
-|    11| MongoDB       |
-|    12| Python        |
-|    13| Flask         |
-|    14| PostgreSQL    |
+|     9| Node.js       |
+|    10| MongoDB       |
+|    11| Python        |
+|    12| Flask         |
+|    13| PostgreSQL    |
 |    14| Sequelize     |
 |    15| Tailwind      |
+-->
+
+| No. | Technology |
+| --- | ---------- |
+| 1 | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white) JavaScript |  
+| 2 | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) HTML5 |  
+| 3 | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) CSS3 |  
+| 4 | ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) React |  
+| 5 | ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white) Bootstrap |  
+| 6 | ![Airtable](https://img.shields.io/badge/Airtable-00B3B8?logo=airtable&logoColor=white) Airtable |  
+| 7 | ![Trello](https://img.shields.io/badge/Trello-0079BF?logo=trello&logoColor=white) Trello |  
+| 8 | ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white) Express.js |  
+| 9 | ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) Node.js |  
+| 10 | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) MongoDB |  
+| 11 | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) Python |  
+| 12 | ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white) Flask |  
+| 13 | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) PostgreSQL |  
+| 14 | ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&logoColor=white) Sequelize |  
+| 15 | ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwind-css&logoColor=white) Tailwind |
+
 
 </details>
+
+---
+
+## 📫 How to Reach Me
+I am actively seeking opportunities in **Full Stack Development** and would love to collaborate on exciting projects. Feel free to reach out!
+
+📧 Email: [benjamingohps@gmail.com](mailto:benjamingohps@gmail.com)  
+💬 DM me on [LinkedIn](https://www.linkedin.com/in/benjamin-goh-ps)
+
 
 ---
 > Do to others as you would have them do to you. - Luke 6:31
